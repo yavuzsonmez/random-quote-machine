@@ -42,7 +42,7 @@ let random = [Math.floor(Math.random() * (5420 - 0 + 1)) + 0];
                <div class="text-center"> <button type="button" class="btn btn-primary" id="new-quote" onClick={this.componentDidMount.bind(this)}>New Quote</button>
      <button type="button" class="btn btn-primary">   <a id="tweet-quote" href="twitter.com/intent/tweet">Tweet</a></button>
                  </div>
-                 <p id="por"><a id="portofolio" href="https://yavuzsonmez.com/portofolio">Return to my Portofolio</a></p>
+                 <p id="por"><a id="portofolio" href="https://yavuzsonmez.com/portofolio">Return to Portofolio</a></p>
      </div>
     );
   }
