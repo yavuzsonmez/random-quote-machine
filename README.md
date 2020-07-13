@@ -1,6 +1,6 @@
-# freecodecamp : Pomodoro Clock
+# freecodecamp : Random Quote Machine
 
-**Pomodoro**
+**Générateur de citation**
 
 
-**Stack: Html, Css, Javascript, React**
+**Stack: Html, Css, Bootstrap, Javascript, React, JSON**
